@@ -18,3 +18,7 @@
 #okta-sign-in .factors-dropdown-wrap .dropdown.more-actions .bg-helper {
   color: transparent;
 }
+
+#okta-sign-in.auth-container .okta-sign-in-beacon-border {
+ border-color: transparent; 
+}
