@@ -1,0 +1,11 @@
+        background-color: white;
+      }
+          
+          #okta-sign-in {
+            border-style: none;
+        }
+          
+          #okta-sign-in.auth-container.main-container {
+            box-shadow: none;
+
+        }
