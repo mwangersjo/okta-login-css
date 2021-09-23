@@ -1,0 +1,24 @@
+.login-bg-image {
+
+  background: linear-gradient(rgb(226,135,67, 0.3), white 50%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+          
+#okta-sign-in {
+  border-style: none;
+}
+          
+#okta-sign-in.auth-container.main-container {
+    box-shadow: none;
+    background-color: transparent;
+}
+
+#okta-sign-in .factors-dropdown-wrap .dropdown.more-actions .bg-helper {
+  color: transparent;
+}
+
+#okta-sign-in.auth-container .okta-sign-in-beacon-border {
+ border-color: transparent; 
+}
